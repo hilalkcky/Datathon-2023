@@ -1,4 +1,4 @@
-## Proje Adı: Müşteri Segmenti Tahmini
+### Proje Adı: Müşteri Segmenti Tahmini
 
 Bu proje, müşteri davranışlarını ve özelliklerini inceleyerek onları farklı segmentlere ayırmayı hedefleyen bir makine öğrenmesi uygulamasıdır. Proje, müşterilerin yıllık gelirleri, satın alma alışkanlıkları, demografik bilgileri gibi verileri kullanarak hangi müşteri segmentine ait olduklarını tahmin eder.
 
